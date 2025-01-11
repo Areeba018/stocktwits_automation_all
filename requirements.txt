@@ -1,0 +1,57 @@
+python-dotenv
+tornado
+# mysql-connector-python
+# asyncmy
+# aiomysql
+aiosqlite
+SQLAlchemy
+SQLAlchemy-Utils
+pyjwt
+pycryptodome
+pyotp
+python-dateutil
+greenlet
+
+# python-binance
+# falconx
+# yfinance
+
+# openpyxl
+# slack_sdk
+
+# google-api-python-client
+# google-auth-httplib2
+# google-auth-oauthlib
+# google
+# gspread
+
+# stripe
+
+# amazon master
+# requests==2.31.0
+# ipdb==0.13.13
+# aiohttp==3.9.1
+# numpy==1.26.3
+# pandas==2.1.4
+# tqdm==4.66.1
+# ta==0.11.0
+# seaborn==0.13.1
+# scikit-learn==1.3.2
+# statsmodels==0.14.1
+
+# Pdf Libs
+# reportlab
+# svglib
+# pdfrw
+# PyPDF2
+
+# stocktwits
+ipykernel
+selenium-driverless
+pyautogui
+httpx
+requests
+
+# email reading
+redbox
+beautifulsoup4
